@@ -1,0 +1,2 @@
+{'symbl': 'AMZN', 'currentPrice': '3,308.23', "day's-change": '-13.77 (-0.41%)'}
+{'symbl': 'MSFT', 'currentPrice': '222.99', "day's-change": '-0.30 (-0.13%)'}
