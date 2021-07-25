@@ -16,5 +16,5 @@ creates stocks.txt and prints to terminal
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requrirements.txt
+pip install -r requirements.txt
 ```
